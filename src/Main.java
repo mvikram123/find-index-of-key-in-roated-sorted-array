@@ -18,3 +18,4 @@ public class Main {
         System.out.println(findIndexOfKey(arr,n,key));
     }
 }
+//output=8  (index of key element 3)
